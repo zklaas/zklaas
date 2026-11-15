@@ -14,16 +14,22 @@ A card game of **Attack, Decay, Sustain and Release**, played against the comput
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/adsr.git
 cd adsr
 python3 -m pip install --user PyQt6   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/adsr.git
@@ -31,15 +37,21 @@ cd adsr
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/adsr.git
 cd adsr
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -53,16 +65,22 @@ Tests strategies for the **iterated prisoner's dilemma**, after Robert Axelrod's
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/axelrod.git
 cd axelrod
 python3 -m pip install --user PyQt6   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `axelrod-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/axelrod.git
@@ -70,15 +88,21 @@ cd axelrod
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `axelrod-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/axelrod.git
 cd axelrod
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `axelrod-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -92,16 +116,22 @@ A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team, the
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/ballsheet.git
 cd ballsheet
 python3 -m pip install --user PyQt6   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `ballsheet-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/ballsheet.git
@@ -109,15 +139,21 @@ cd ballsheet
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `ballsheet-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/ballsheet.git
 cd ballsheet
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `ballsheet-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -131,16 +167,22 @@ One-person multitrack video. Record yourself into one inset of a screen layout, 
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/boxapella.git
 cd boxapella
 python3 -m pip install --user PyQt6 imageio-ffmpeg numpy sounddevice   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `boxapella-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/boxapella.git
@@ -148,15 +190,21 @@ cd boxapella
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `boxapella-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/boxapella.git
 cd boxapella
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `boxapella-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -170,16 +218,22 @@ A balance-of-power simulation. The world is made of **Regions** held by **Groups
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/brink.git
 cd brink
 python3 -m pip install --user PyQt6   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `brink-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/brink.git
@@ -187,15 +241,21 @@ cd brink
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `brink-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/brink.git
 cd brink
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `brink-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -209,18 +269,24 @@ A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but yo
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/chumpman11d.git
 cd chumpman11d
 python3 -m pip install --user PyQt6 PyQt6-WebEngine   # or your distribution's packages
-./install.sh
+bash install.sh
 
 # or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
 ```
 
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open a terminal there, and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/chumpman11d.git
@@ -230,9 +296,13 @@ powershell -ExecutionPolicy Bypass -File install.ps1
 # or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/chumpman11d.git
@@ -241,6 +311,8 @@ bash install-macos.sh
 
 # or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -254,6 +326,8 @@ A 6 × 6 board of point values, questions and answers, read from an Excel workbo
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/quizboard.git
 cd quizboard
@@ -261,9 +335,13 @@ python3 -m pip install --user PyQt6   # or your distribution's packages
 python3 quizboard.py
 ```
 
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `quizboard-main`); open a terminal there, and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/quizboard.git
@@ -271,15 +349,21 @@ cd quizboard
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `quizboard-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/quizboard.git
 cd quizboard
 bash install-macos.sh
 ```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `quizboard-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
@@ -293,16 +377,22 @@ Reshape a voice recording across the range of human voices: pitch, vocal-tract l
 
 <details><summary>Install on Linux</summary>
 
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
 ```
 git clone https://github.com/zklaas/vocalfry.git
 cd vocalfry
 python3 -m pip install --user PyQt6 imageio-ffmpeg numpy pyworld sounddevice   # or your distribution's packages
-./install.sh
+bash install.sh
 ```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open a terminal there, and skip the first two lines above.
 
 </details>
 
 <details><summary>Install on Windows</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
 ```
 git clone https://github.com/zklaas/vocalfry.git
@@ -310,9 +400,13 @@ cd vocalfry
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
 </details>
 
 <details><summary>Install on macOS</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
 ```
 git clone https://github.com/zklaas/vocalfry.git
@@ -320,8 +414,12 @@ cd vocalfry
 bash install-macos.sh
 ```
 
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
+
 </details>
 
 ---
+
+If something doesn't work, please write to zklaas@yahoo.ca.
 
 *This page is generated by Classifier from each program's Development Group, licence and platform tracks.*
