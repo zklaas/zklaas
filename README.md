@@ -10,7 +10,11 @@ A card game of **Attack, Decay, Sustain and Release**, played against the comput
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -116,7 +120,11 @@ A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team, the
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/ballsheet](https://github.com/zklaas/ballsheet) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/ballsheet/releases/latest/download/BallSheet-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -167,7 +175,11 @@ One-person multitrack video. Record yourself into one inset of a screen layout, 
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/boxapella](https://github.com/zklaas/boxapella) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/boxapella/releases/latest/download/Boxapella-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/boxapella/releases/latest/download/Boxapella-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/boxapella/releases/latest/download/Boxapella-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -218,7 +230,11 @@ A balance-of-power simulation. The world is made of **Regions** held by **Groups
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/brink](https://github.com/zklaas/brink) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/brink/releases/latest/download/Brink-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/brink/releases/latest/download/Brink-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/brink/releases/latest/download/Brink-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -269,7 +285,11 @@ A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but yo
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -322,11 +342,15 @@ No git? (the first `git` command offers to install Apple's command-line tools: a
 
 ### Classifier
 
-Sorts your software into **Development Groups**, decides which of it is **Cleared** for an open-source licence, writes that licence (with an AI disclosure naming Claude), records which operating systems each one supports, and keeps GitHub in line.
+Ready-to-run downloads (executable programs), with nothing else to install:
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/classifier](https://github.com/zklaas/classifier) · **Runs on:** Linux
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Linux app (.AppImage)](https://github.com/zklaas/classifier/releases/latest/download/Classifier-Linux-x86_64.AppImage)
+
 **AI:** Runs without AI; an optional part connects to Claude.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -349,7 +373,11 @@ A 6 × 6 board of point values, questions and answers, read from an Excel workbo
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/quizboard](https://github.com/zklaas/quizboard) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/quizboard/releases/latest/download/Quizboard-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/quizboard/releases/latest/download/Quizboard-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/quizboard/releases/latest/download/Quizboard-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
@@ -400,7 +428,11 @@ Reshape a voice recording across the range of human voices: pitch, vocal-tract l
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
