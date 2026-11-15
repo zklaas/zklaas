@@ -8,7 +8,7 @@ Open-source software made by Zachary Klaas with Claude, an artificial intelligen
 
 A card game of **Attack, Decay, Sustain and Release**, played against the computer, hot-seat on one screen, or over the LAN. PyQt6; otherwise standard library only.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux, Windows, macOS
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Play online:** [zklaas.github.io/adsr/web](https://zklaas.github.io/adsr/web/) · **Runs on:** Linux, Windows, macOS
 
 **Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/adsr/releases/latest/download/ADSR-Linux-x86_64.AppImage)
 
@@ -25,6 +25,8 @@ git clone https://github.com/zklaas/adsr.git
 cd adsr
 python3 -m pip install --user PyQt6   # or your distribution's packages
 bash install.sh
+
+# or, without installing: open web/index.html in a web browser (from https://github.com/zklaas/adsr)
 ```
 
 No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open a terminal there, and skip the first two lines above.
@@ -39,6 +41,8 @@ Type these into **PowerShell**: open the Start menu, type *PowerShell* and press
 git clone https://github.com/zklaas/adsr.git
 cd adsr
 powershell -ExecutionPolicy Bypass -File install.ps1
+
+# or, without installing: open web/index.html in a web browser (from https://github.com/zklaas/adsr)
 ```
 
 No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
@@ -53,6 +57,8 @@ Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-
 git clone https://github.com/zklaas/adsr.git
 cd adsr
 bash install-macos.sh
+
+# or, without installing: open web/index.html in a web browser (from https://github.com/zklaas/adsr)
 ```
 
 No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `adsr-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
