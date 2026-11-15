@@ -8,7 +8,7 @@ Open-source software made by Zachary Klaas with Claude, an artificial intelligen
 
 A card game of **Attack, Decay, Sustain and Release**, played against the computer, hot-seat on one screen, or over the LAN. PyQt6; otherwise standard library only.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -47,7 +47,7 @@ bash install-macos.sh
 
 Tests strategies for the **iterated prisoner's dilemma**, after Robert Axelrod's computer tournaments (1980), his ecological analysis and genetic algorithm (1984, 1987), and later work on noise. PyQt6 + Python stdlib.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -86,7 +86,7 @@ bash install-macos.sh
 
 A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team, then step through its history one season at a time.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/ballsheet](https://github.com/zklaas/ballsheet) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/ballsheet](https://github.com/zklaas/ballsheet) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -125,7 +125,7 @@ bash install-macos.sh
 
 One-person multitrack video. Record yourself into one inset of a screen layout, then record again into the next inset while the earlier takes play in your headphones, and so on. All the insets play together as one master video, with every voice mixed into one soundtrack.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/boxapella](https://github.com/zklaas/boxapella) · **Runs on:** Linux, Windows, macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/boxapella](https://github.com/zklaas/boxapella) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -164,7 +164,7 @@ bash install-macos.sh
 
 A balance-of-power simulation. The world is made of **Regions** held by **Groups**, each with an amount of **Power**.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/brink](https://github.com/zklaas/brink) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/brink](https://github.com/zklaas/brink) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -203,7 +203,7 @@ bash install-macos.sh
 
 A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but your screen can only ever show 3 axes ("your current 3D brane") at once. Rotate hidden dimensions into view, collect coins that only fully exist when all three of their dimensions are on screen, steer a Time axis and an Attribute axis to bend probability in your favor, and try not to run into yourself.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -248,7 +248,7 @@ bash install-macos.sh
 
 A 6 × 6 board of point values, questions and answers, read from an Excel workbook. Six column topics run across the top; under each topic, six tiles show their points, 1 to 6 going down.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/quizboard](https://github.com/zklaas/quizboard) · **Runs on:** Linux, Windows (untested), macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/quizboard](https://github.com/zklaas/quizboard) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
@@ -287,7 +287,7 @@ bash install-macos.sh
 
 Reshape a voice recording across the range of human voices: pitch, vocal-tract length (formants), voice quality and timing, each on a slider + numeric field.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux, Windows, macOS (untested)
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux, Windows, macOS
 
 **AI:** Does not connect to any AI system.
 
