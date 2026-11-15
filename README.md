@@ -316,6 +316,29 @@ No git? (the first `git` command offers to install Apple's command-line tools: a
 
 </details>
 
+### Classifier
+
+Sorts your software into **Development Groups**, decides which of it is **Cleared** for an open-source licence, writes that licence (with an AI disclosure naming Claude), records which operating systems each one supports, and keeps GitHub in line.
+
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/classifier](https://github.com/zklaas/classifier) · **Runs on:** Linux
+
+**AI:** Runs without AI; an optional part connects to Claude.
+
+<details><summary>Install on Linux</summary>
+
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
+```
+git clone https://github.com/zklaas/classifier.git
+cd classifier
+python3 -m pip install --user PyQt6 PyQt6-WebEngine   # or your distribution's packages
+bash install.sh
+```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `classifier-main`); open a terminal there, and skip the first two lines above.
+
+</details>
+
 ### Quizboard
 
 A 6 × 6 board of point values, questions and answers, read from an Excel workbook. Six column topics run across the top; under each topic, six tiles show their points, 1 to 6 going down.
