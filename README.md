@@ -61,6 +61,8 @@ Tests strategies for the **iterated prisoner's dilemma**, after Robert Axelrod's
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux, Windows, macOS
 
+**Download** (ready to run, nothing else to install): [Windows](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Setup-Windows.exe) · [macOS](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-macOS.dmg) · [Linux](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
 
 <details><summary>Install on Linux</summary>
