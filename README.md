@@ -8,7 +8,7 @@ Open-source software made by Zachary Klaas with Claude, an artificial intelligen
 
 A card game of **Attack, Decay, Sustain and Release**, played against the computer, hot-seat on one screen, or over the LAN. PyQt6; otherwise standard library only.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/adsr](https://github.com/zklaas/adsr) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -23,11 +23,31 @@ python3 -m pip install --user PyQt6   # or your distribution's packages
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/adsr.git
+cd adsr
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/adsr.git
+cd adsr
+bash install-macos.sh
+```
+
+</details>
+
 ### Axelrod
 
 Tests strategies for the **iterated prisoner's dilemma**, after Robert Axelrod's computer tournaments (1980), his ecological analysis and genetic algorithm (1984, 1987), and later work on noise. PyQt6 + Python stdlib.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -42,11 +62,31 @@ python3 -m pip install --user PyQt6   # or your distribution's packages
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/axelrod.git
+cd axelrod
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/axelrod.git
+cd axelrod
+bash install-macos.sh
+```
+
+</details>
+
 ### BallSheet
 
 A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team, then step through its history one season at a time.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/ballsheet](https://github.com/zklaas/ballsheet) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/ballsheet](https://github.com/zklaas/ballsheet) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -61,11 +101,31 @@ python3 -m pip install --user PyQt6   # or your distribution's packages
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/ballsheet.git
+cd ballsheet
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/ballsheet.git
+cd ballsheet
+bash install-macos.sh
+```
+
+</details>
+
 ### Boxapella
 
 One-person multitrack video. Record yourself into one inset of a screen layout, then record again into the next inset while the earlier takes play in your headphones, and so on. All the insets play together as one master video, with every voice mixed into one soundtrack.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/boxapella](https://github.com/zklaas/boxapella) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/boxapella](https://github.com/zklaas/boxapella) · **Runs on:** Linux, Windows, macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -80,11 +140,31 @@ python3 -m pip install --user PyQt6 imageio-ffmpeg numpy sounddevice   # or your
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/boxapella.git
+cd boxapella
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/boxapella.git
+cd boxapella
+bash install-macos.sh
+```
+
+</details>
+
 ### Brink
 
 A balance-of-power simulation. The world is made of **Regions** held by **Groups**, each with an amount of **Power**.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/brink](https://github.com/zklaas/brink) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/brink](https://github.com/zklaas/brink) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -99,11 +179,31 @@ python3 -m pip install --user PyQt6   # or your distribution's packages
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/brink.git
+cd brink
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/brink.git
+cd brink
+bash install-macos.sh
+```
+
+</details>
+
 ### ChumpMan 11D
 
 A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but your screen can only ever show 3 axes ("your current 3D brane") at once. Rotate hidden dimensions into view, collect coins that only fully exist when all three of their dimensions are on screen, steer a Time axis and an Attribute axis to bend probability in your favor, and try not to run into yourself.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -120,11 +220,35 @@ python3 -m pip install --user PyQt6 PyQt6-WebEngine   # or your distribution's p
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/chumpman11d.git
+cd chumpman11d
+powershell -ExecutionPolicy Bypass -File install.ps1
+
+# or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/chumpman11d.git
+cd chumpman11d
+bash install-macos.sh
+
+# or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
+```
+
+</details>
+
 ### Quizboard
 
 A 6 × 6 board of point values, questions and answers, read from an Excel workbook. Six column topics run across the top; under each topic, six tiles show their points, 1 to 6 going down.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/quizboard](https://github.com/zklaas/quizboard) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/quizboard](https://github.com/zklaas/quizboard) · **Runs on:** Linux, Windows (untested), macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -139,11 +263,31 @@ python3 quizboard.py
 
 </details>
 
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/quizboard.git
+cd quizboard
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/quizboard.git
+cd quizboard
+bash install-macos.sh
+```
+
+</details>
+
 ### VocalFry
 
 Reshape a voice recording across the range of human voices: pitch, vocal-tract length (formants), voice quality and timing, each on a slider + numeric field.
 
-**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux, Windows, macOS (untested)
 
 **AI:** Does not connect to any AI system.
 
@@ -154,6 +298,26 @@ git clone https://github.com/zklaas/vocalfry.git
 cd vocalfry
 python3 -m pip install --user PyQt6 imageio-ffmpeg numpy pyworld sounddevice   # or your distribution's packages
 ./install.sh
+```
+
+</details>
+
+<details><summary>Install on Windows</summary>
+
+```
+git clone https://github.com/zklaas/vocalfry.git
+cd vocalfry
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+</details>
+
+<details><summary>Install on macOS</summary>
+
+```
+git clone https://github.com/zklaas/vocalfry.git
+cd vocalfry
+bash install-macos.sh
 ```
 
 </details>
