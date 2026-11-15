@@ -12,7 +12,7 @@ A card game of **Attack, Decay, Sustain and Release**, played against the comput
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -27,7 +27,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -41,7 +41,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -61,11 +61,13 @@ Tests strategies for the **iterated prisoner's dilemma**, after Robert Axelrod's
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/axelrod](https://github.com/zklaas/axelrod) · **Runs on:** Linux, Windows, macOS
 
-**Download** (ready to run, nothing else to install): [Windows](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Setup-Windows.exe) · [macOS](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-macOS.dmg) · [Linux](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Linux-x86_64.AppImage)
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/axelrod/releases/latest/download/Axelrod-Linux-x86_64.AppImage)
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+Or install from the source code, at the command line:
+
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -80,7 +82,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -94,7 +96,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -116,7 +118,7 @@ A PyQt6 desk for Major League batter, pitcher and team numbers. Pick a team, the
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -131,7 +133,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -145,7 +147,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -167,7 +169,7 @@ One-person multitrack video. Record yourself into one inset of a screen layout, 
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -182,7 +184,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -196,7 +198,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -218,7 +220,7 @@ A balance-of-power simulation. The world is made of **Regions** held by **Groups
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -233,7 +235,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -247,7 +249,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -269,7 +271,7 @@ A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but yo
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -286,7 +288,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -302,7 +304,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -326,7 +328,7 @@ Sorts your software into **Development Groups**, decides which of it is **Cleare
 
 **AI:** Runs without AI; an optional part connects to Claude.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -349,7 +351,7 @@ A 6 × 6 board of point values, questions and answers, read from an Excel workbo
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -364,7 +366,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -378,7 +380,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
@@ -400,7 +402,7 @@ Reshape a voice recording across the range of human voices: pitch, vocal-tract l
 
 **AI:** Does not connect to any AI system.
 
-<details><summary>Install on Linux</summary>
+<details><summary>Install on Linux at the command line (from the source code)</summary>
 
 Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
 
@@ -415,7 +417,7 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 
 </details>
 
-<details><summary>Install on Windows</summary>
+<details><summary>Install on Windows at the command line (from the source code)</summary>
 
 Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
 
@@ -429,7 +431,7 @@ No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the G
 
 </details>
 
-<details><summary>Install on macOS</summary>
+<details><summary>Install on macOS at the command line (from the source code)</summary>
 
 Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
 
