@@ -285,6 +285,67 @@ No git? (the first `git` command offers to install Apple's command-line tools: a
 
 </details>
 
+### ChumpMan 11D
+
+A hyperspace platformer: ChumpMan is stranded in an 11-dimensional space, but your screen can only ever show 3 axes ("your current 3D brane") at once. Rotate hidden dimensions into view, collect coins that only fully exist when all three of their dimensions are on screen, steer a Time axis and an Attribute axis to bend probability in your favor, and try not to run into yourself.
+
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/chumpman11d](https://github.com/zklaas/chumpman11d) · **Play online:** [zklaas.github.io/chumpman11d](https://zklaas.github.io/chumpman11d/) · **Runs on:** Linux, Windows, macOS
+
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/chumpman11d/releases/latest/download/ChumpMan11D-Linux-x86_64.AppImage)
+
+**AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
+
+<details><summary>Install on Linux at the command line (from the source code)</summary>
+
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
+```
+git clone https://github.com/zklaas/chumpman11d.git
+cd chumpman11d
+python3 -m pip install --user PyQt6 PyQt6-WebEngine   # or your distribution's packages
+bash install.sh
+
+# or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
+```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open a terminal there, and skip the first two lines above.
+
+</details>
+
+<details><summary>Install on Windows at the command line (from the source code)</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
+
+```
+git clone https://github.com/zklaas/chumpman11d.git
+cd chumpman11d
+powershell -ExecutionPolicy Bypass -File install.ps1
+
+# or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
+```
+
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
+</details>
+
+<details><summary>Install on macOS at the command line (from the source code)</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
+
+```
+git clone https://github.com/zklaas/chumpman11d.git
+cd chumpman11d
+bash install-macos.sh
+
+# or, without installing: open game.html in a web browser (from https://github.com/zklaas/chumpman11d)
+```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `chumpman11d-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
+
+</details>
+
 ### Classifier
 
 Ready-to-run downloads (executable programs), with nothing else to install:
@@ -313,6 +374,8 @@ No git? On the GitHub page click **Code > Download ZIP** and unpack it (the fold
 </details>
 
 ### FacebookDiary
+
+Read your own Facebook posts as a diary. FacebookDiary opens the archive Facebook gives you with *Download your information* and lets you browse your posts, comments and replies day by day and hour by hour, by date range, by topic, or by any words in them. Photos show with their posts, and videos play in their own window.
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/facebookdiary](https://github.com/zklaas/facebookdiary) · **Runs on:** Linux, Windows, macOS
 
@@ -413,6 +476,61 @@ bash install-macos.sh
 ```
 
 No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `quizboard-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
+
+</details>
+
+### VocalFry
+
+Reshape a voice recording across the range of human voices: pitch, vocal-tract length (formants), voice quality and timing, each on a slider + numeric field.
+
+**Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/vocalfry](https://github.com/zklaas/vocalfry) · **Runs on:** Linux, Windows, macOS
+
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/vocalfry/releases/latest/download/VocalFry-Linux-x86_64.AppImage)
+
+**AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
+
+<details><summary>Install on Linux at the command line (from the source code)</summary>
+
+Type these into a **terminal** (in most file managers: right-click inside a folder > *Open in Terminal*).
+
+```
+git clone https://github.com/zklaas/vocalfry.git
+cd vocalfry
+python3 -m pip install --user PyQt6 imageio-ffmpeg numpy pyworld sounddevice   # or your distribution's packages
+bash install.sh
+```
+
+No git? On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open a terminal there, and skip the first two lines above.
+
+</details>
+
+<details><summary>Install on Windows at the command line (from the source code)</summary>
+
+Type these into **PowerShell**: open the Start menu, type *PowerShell* and press Enter (Windows 11's *Terminal* opens PowerShell too; the Command Prompt also works). The installer needs Python first: `winget install --id Python.Python.3.13 -e --scope user`.
+
+```
+git clone https://github.com/zklaas/vocalfry.git
+cd vocalfry
+powershell -ExecutionPolicy Bypass -File install.ps1
+```
+
+No git? (`git` needs Git for Windows: `winget install --id Git.Git -e`) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open PowerShell there (type *powershell* in File Explorer's address bar and press Enter), and skip the first two lines above.
+
+</details>
+
+<details><summary>Install on macOS at the command line (from the source code)</summary>
+
+Type these into **Terminal** (Applications > Utilities > Terminal, or press ⌘-Space and type *Terminal*). The installer needs Python first: `brew install python@3.13` (https://brew.sh), or the installer from python.org.
+
+```
+git clone https://github.com/zklaas/vocalfry.git
+cd vocalfry
+bash install-macos.sh
+```
+
+No git? (the first `git` command offers to install Apple's command-line tools: accept) On the GitHub page click **Code > Download ZIP** and unpack it (the folder is called `vocalfry-main`); open Terminal there (type `cd `, drag the folder onto the Terminal window, press Return), and skip the first two lines above.
 
 </details>
 
