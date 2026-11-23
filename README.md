@@ -379,7 +379,11 @@ Read your own Facebook posts as a diary. FacebookDiary opens the archive Faceboo
 
 **Licence:** GPL-3.0-or-later · **Source:** [github.com/zklaas/facebookdiary](https://github.com/zklaas/facebookdiary) · **Runs on:** Linux, Windows, macOS
 
+**Download the program** (executable: double-click to install and run, nothing else needed): [Windows installer (.exe)](https://github.com/zklaas/facebookdiary/releases/latest/download/FacebookDiary-Setup-Windows.exe) · [macOS app (.dmg)](https://github.com/zklaas/facebookdiary/releases/latest/download/FacebookDiary-macOS.dmg) · [Linux app (.AppImage)](https://github.com/zklaas/facebookdiary/releases/latest/download/FacebookDiary-Linux-x86_64.AppImage)
+
 **AI:** Does not connect to any AI system.
+
+Or install from the source code, at the command line:
 
 <details><summary>Install on Linux at the command line (from the source code)</summary>
 
